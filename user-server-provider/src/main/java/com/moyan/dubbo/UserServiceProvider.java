@@ -5,7 +5,7 @@ import java.io.IOException;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
- * 提供方
+ * 提供方.
  * @author 莫言
  *
  */

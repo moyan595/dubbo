@@ -2,6 +2,8 @@ package com.moyan.dubbo.bean;
 
 import java.io.Serializable;
 
+//
+
 public class UserAddress implements Serializable{
 	private Integer id;
 	private String name;

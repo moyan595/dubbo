@@ -9,7 +9,7 @@ import com.moyan.dubbo.bean.UserAddress;
 import com.moyan.dubbo.service.OrderService;
 
 /**
- * 消费方
+ * 消费方.
  * @author 莫言
  *
  */
